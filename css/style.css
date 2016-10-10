@@ -1,11 +1,15 @@
 body {
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  background-color: #ffffff; }
 
 .header {
   width: 100%; }
 
-.swordrosBox img {
-  width: 100%; }
+.jianxin {
+  width: 700px;
+  height: 370px;
+  margin: 10% auto;
+  background-image: url("../images/jianxin-1.png"); }
 
 /*# sourceMappingURL=style.css.map */
