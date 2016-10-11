@@ -8,10 +8,26 @@ body {
   width: 100%;
 }
 
-.jianxin{
+.jianxin {
   width: 700px;
   height: 370px;
   margin: 10% auto;
   background-image: url("../images/jianxin-1.png");
 
+}
+
+.waitme {
+  width:100%;
+  img{
+    width: 180px;
+    display: block;
+    /* margin: 60px auto; */
+    position: absolute;
+    height: 330px;
+    left: 50%;
+    top: 50%;
+    margin-left: -90px;
+    margin-top: -165px;
+
+  }
 }
